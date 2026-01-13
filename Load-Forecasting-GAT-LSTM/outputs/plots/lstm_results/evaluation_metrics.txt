@@ -1,0 +1,5 @@
+Mean Absolute Error (MAE): 85.03784942626953
+Root Mean Squared Error (RMSE): 171.0944891536545
+Mean Absolute Percentage Error (MAPE): 5.286851406097412%
+R-squared (R2): 0.9975653886795044
+Pearson Correlation Coefficient: 0.9988827109336853
